@@ -6,12 +6,16 @@ npm install react react-dom
 
 https://vitejs.dev/guide/
 
-# 
+# lecture 1
 ```
 npm create vite .
 npm install
 npm run dev
 ```
+
+# lecture 2
+
+
 
 ## Explaining index.js
 
