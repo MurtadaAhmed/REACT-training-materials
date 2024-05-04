@@ -4,6 +4,15 @@ npm init --yes
 npm install react react-dom
 
 
+https://vitejs.dev/guide/
+
+# 
+```
+npm create vite@latest
+npm install
+npm run dev
+```
+
 ## Explaining index.js
 
 The `src/index.js` file is the entry point of your React application. Here's a breakdown of its contents:
