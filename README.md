@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
 quick start: https://react.dev/learn
+https://vitejs.dev/guide/
+
+# 
+```
+npm create vite@latest
+npm install
+npm run dev
+```
 
 ## Explaining index.js
 
