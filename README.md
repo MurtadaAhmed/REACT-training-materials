@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-quick start: https://react.dev/learn
+npm init --yes
+npm install react react-dom
+
 
 ## Explaining index.js
 
