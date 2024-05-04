@@ -8,7 +8,7 @@ https://vitejs.dev/guide/
 
 # 
 ```
-npm create vite@latest
+npm create vite .
 npm install
 npm run dev
 ```
